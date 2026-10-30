@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn==1.9.0
+xgboost==3.4.1
+imbalanced-learn==0.14.2
+shap
+matplotlib
+seaborn
+joblib
+flask
